@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "San Junipero",
+        "season": 3,
+        "episodeNum": 4,
+        "description": "In a retro '80s beach town, a romance between a shy woman and a lively party girl leads to an exploration of life beyond death.",
+        "imdbScore": 8.8
+    },
+    {
+        "id": 2,
+        "title": "USS Callister",
+        "season": 4,
+        "episodeNum": 1,
+        "description": "A programmer's digital clone traps sentient beings in a Star Trek-inspired simulation, forcing them to obey his twisted whims.",
+        "imdbScore": 8.8
+    },
+    {
+        "id": 3,
+        "title": "Nosedive",
+        "season": 3,
+        "episodeNum": 1,
+        "description": "In a society where ratings define your social status, a woman desperate to improve her own rating seeks true connection.",
+        "imdbScore": 8.4
+    },
+    {
+        "id": 4,
+        "title": "White Christmas",
+        "season": 2,
+        "episodeNum": 4,
+        "description": "Two men isolated in a remote outpost face a sinister digital consciousness and a harrowing confession of past deeds.",
+        "imdbScore": 9.2
+    },
+    {
+        "id": 5,
+        "title": "Hang the DJ",
+        "season": 4,
+        "episodeNum": 4,
+        "description": "In a world where single people are monitored by dating system that dictates who they can and can't date, a couple must rebel.",
+        "imdbScore": 8.8
+    },
+    {
+        "id": 6,
+        "title": "Shut Up and Dance",
+        "season": 3,
+        "episodeNum": 3,
+        "description": "After a virus infects his laptop, a teen faces a daunting choice: carry out orders delivered by text message, or risk having intimate secrets exposed.",
+        "imdbScore": 8.4
+    },
+    {
+        "id": 7,
+        "title": "Metalhead",
+        "season": 4,
+        "episodeNum": 5,
+        "description": "In the post-apocalyptic landscape of the Scottish Moors, a woman attempts to survive the land full of robotic guard dogs.",
+        "imdbScore": 6.7
+    },
+    {
+        "id": 8,
+        "title": "Fifteen Million Merits",
+        "season": 1,
+        "episodeNum": 2,
+        "description": "In a grim dystopian future, where citizens are forced to watch a show in which 'contestants' can either win a chance at fame or face certain death.",
+        "imdbScore": 8.2
+    },
+    {
+        "id": 9,
+        "title": "Black Museum",
+        "season": 4,
+        "episodeNum": 6,
+        "description": "A woman enters the Black Museum, where the proprietor tells his stories relating to the artifacts.",
+        "imdbScore": 7.7
+    },
+    {
+        "id": 10,
+        "title": "Hated in the Nation",
+        "season": 3,
+        "episodeNum": 6,
+        "description": "In near-future London, police detective Karin Parke, and her tech-savvy sidekick Blue, investigate a string of mysterious deaths with a sinister link to social media.",
+        "imdbScore": 8.5
+    },
+    {
+        "id": 11,
+        "title": "Arkangel",
+        "season": 4,
+        "episodeNum": 2,
+        "description": "Worried about her daughter's safety, single mom Marie signs up for a cutting-edge device that monitors the girl's whereabouts - and much more.",
+        "imdbScore": 6.7
+    },
+    {
+        "id": 12,
+        "title": "White Bear",
+        "season": 2,
+        "episodeNum": 2,
+        "description": "Victoria wakes up and cannot remember anything about her life. Everyone she encounters refuses to communicate with her.",
+        "imdbScore": 8.4
+    },
+    {
+        "id": 13,
+        "title": "The National Anthem",
+        "season": 1,
+        "episodeNum": 1,
+        "description": "A twisted criminal's gruesome videos drive a British official into a moral dilemma that leads to a standoff with a serial killer.",
+        "imdbScore": 7.7
+    },
+    {
+        "id": 14,
+        "title": "Men Against Fire",
+        "season": 3,
+        "episodeNum": 5,
+        "description": "After his first battle with an elusive enemy, a soldier begins experiencing unfamiliar sensations and strange technical glitches.",
+        "imdbScore": 7.8
+    },
+    {
+        "id": 15,
+        "title": "Hated in the Nation",
+        "season": 3,
+        "episodeNum": 6,
+        "description": "In near-future London, police detective Karin Parke, and her tech-savvy sidekick Blue, investigate a string of mysterious deaths with a sinister link to social media.",
+        "imdbScore": 8.5
+    }
+]
